@@ -1,4 +1,4 @@
-# 🚤 Boat Renderer - Computer Graphics Project
+# Boat Renderer - Computer Graphics Project
 
 **Student ID:** 47933  
 **Course:** Computer Graphics (14350)  
