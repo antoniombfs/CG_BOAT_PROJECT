@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Universidade/CG/CG_Boat_Project/build/cmake_install.cmake",
+		"C:/Universidade/CG/CG_Boat_Project/build/libs/glfw/cmake_install.cmake",
+		"C:/Universidade/CG/CG_Boat_Project/build/libs/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
